@@ -8,9 +8,6 @@ Este repositorio contiene el desarrollo integral de una estación meteorológica
 | :--- | :--- | :--- |
 | Marattin Lola | lmaratin@escuelasproa.edu.ar | [ver perfil](https://github.com/lolamarattin5)|
 
-diff
-=======
-
 
 ## Estructura del Proyecto
 ! *  **analisis_ipynb/** Prototipado de datos en Google Colab.
