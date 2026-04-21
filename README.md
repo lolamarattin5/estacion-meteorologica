@@ -1,5 +1,4 @@
-´´´diff
- -Proyecto: Estación Meteorológica 2026
+# Proyecto: Estación Meteorológica 2026
 
 ## Especialidad / 5to Año
 Este repositorio contiene el desarrollo integral de una estación meteorológica, integrando Hardware con Arduino UNO, Programación en en el Visual Studio Code en lenguaje Python y Análisis de datos con MysQL worbench, power bi y google colab.
@@ -34,10 +33,6 @@ En este proyecto integramos diversas herramientas distribuidas en tres áreas cl
 * [Arduino IDE](https://www.arduino.cc/en/software) - Programación del microcontrolador en **C++**.
 * [Tinkercad](https://www.tinkercad.com/) - Simulación del circuito electrónico y sensores.
 * **Componentes**: Arduino UNO R3, sensores de temperatura, humedad y presión para el prototipo físico.
-
-
-´´´diff
-=======
 
 
 
