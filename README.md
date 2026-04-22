@@ -1,4 +1,5 @@
-# Proyecto: Estación Meteorológica 2026
+ ```diff
+ -Proyecto: Estación Meteorológica 2026
 
 ## Especialidad / 5to Año
 Este repositorio contiene el desarrollo integral de una estación meteorológica, integrando Hardware con Arduino UNO, Programación en en el Visual Studio Code en lenguaje Python y Análisis de datos con MysQL worbench, power bi y google colab.
