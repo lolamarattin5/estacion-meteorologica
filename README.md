@@ -1,7 +1,8 @@
---- 
+
 🌦️ Proyecto: Estación Meteorológica 2026
+
 🎓 Especialidad / 5to Año — Escuelas PROA
---- 
+
 
 👤 Datos del Estudiante
 [!IMPORTANT]
