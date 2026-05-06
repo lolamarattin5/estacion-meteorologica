@@ -1,39 +1,62 @@
- ```diff
- -Proyecto: Estación Meteorológica 2026
+--- 
+🌦️ Proyecto: Estación Meteorológica 2026
+🎓 Especialidad / 5to Año — Escuelas PROA
+--- 
 
-## Especialidad / 5to Año
-Este repositorio contiene el desarrollo integral de una estación meteorológica, integrando Hardware con Arduino UNO, Programación en en el Visual Studio Code en lenguaje Python y Análisis de datos con MysQL worbench, power bi y google colab.
+👤 Datos del Estudiante
+[!IMPORTANT]
+Estudiante: Marattin Lola
 
-### Datos del Estudiante
-| Apellido y Nombre | E-mail | GitHub |
-| :--- | :--- | :--- |
-| Marattin Lola | lmaratin@escuelasproa.edu.ar | [ver perfil](https://github.com/lolamarattin5)|
+Contacto: lmaratin@escuelasproa.edu.ar
 
+GitHub: @lolamarattin5
 
-## Estructura del Proyecto
-! *  **analisis_ipynb/** Prototipado de datos en Google Colab.
-+ *  **arduino_ino/** Código fuente para el Arduino UNO R3.
-*  **dashboard_pbix/**: Reportes en Power BI.
-! *  **database_sql/**: Scripts de MySQL Workbench.
-+ *  **docs/**: Documentación y leyes de software.
-* **python_app/**: Aplicación de escritorio (POO).
-## 🛠️ Tecnologías Utilizadas
-En este proyecto integramos diversas herramientas distribuidas en tres áreas clave:
+---
+📂 Estructura del Proyecto
+Para facilitar la navegación, el repositorio se divide en las siguientes carpetas:
 
-### 🔬 Club de Ciencias (Análisis y Datos)
-* [Google Colab](https://colab.research.google.com/) - Prototipado de datos y uso de librerías científicas.
-* [MySQL Workbench](https://www.mysql.com/products/workbench/) - Diseño y gestión de la base de datos relacional.
-* [Power BI](https://powerbi.microsoft.com/) - Creación de dashboards interactivos para la visualización del clima.
+analisis_ipynb/: 📝 Prototipado de datos y experimentación en Google Colab.
 
-### 🐍 Programación III (Software)
-* [Visual Studio Code](https://code.visualstudio.com/) - Entorno de desarrollo (IDE) principal.
-* [Python](https://www.python.org/) - Lenguaje de programación con enfoque en **POO** (Programación Orientada a Objetos).
-* **Librerías de Conexión**: Uso de conectores para vincular la lógica de Python con la base de datos.
+arduino_ino/: 🤖 Código fuente (.ino) para el hardware Arduino UNO R3.
 
-### 🤖 Robótica (Hardware y Simulación)
-* [Arduino IDE](https://www.arduino.cc/en/software) - Programación del microcontrolador en **C++**.
-* [Tinkercad](https://www.tinkercad.com/) - Simulación del circuito electrónico y sensores.
-* **Componentes**: Arduino UNO R3, sensores de temperatura, humedad y presión para el prototipo físico.
+dashboard_pbix/: 📊 Reportes e informes visuales en Power BI.
+
+database_sql/: 🗄️ Scripts de creación y consultas en MySQL Workbench.
+
+docs/: 📑 Documentación técnica y marcos legales del software.
+
+python_app/: 🐍 Aplicación de escritorio desarrollada con POO.
+
+---
+🛠️ Tecnologías Utilizadas
+---
+
+🔬 Club de Ciencias (Análisis y Datos)
+Google Colab: Uso de librerías científicas (Pandas, Matplotlib).
+
+MySQL Workbench: Modelado de base de datos relacional.
+
+Power BI: Dashboards interactivos de variables climáticas.
+
+🐍 Programación III (Software)
+Visual Studio Code: IDE de desarrollo principal.
+
+Python 3.x: Lógica de negocio bajo el paradigma de POO.
+
+Conectores SQL: Integración fluida entre la App y la Base de Datos.
+
+🤖 Robótica (Hardware y Simulación)
+Arduino IDE: Programación de lógica de sensores en C++.
+
+Tinkercad: Entorno de simulación previa al montaje físico.
+
+Hardware:
+
+Arduino UNO R3
+
+Sensor DHT11 (Humedad y Temperatura)
+
+Sensor BMP180 (Presión Atmosférica)
 
 
 
